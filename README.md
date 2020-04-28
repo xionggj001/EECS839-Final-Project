@@ -4,6 +4,7 @@
 
 
 Guojun Xiong
+
 KUID: 2946078
 
 
@@ -21,14 +22,25 @@ In this project, we simulate the MLEM2 algorithm by using concept approximation.
 
 # Run 'MLEM2_Algorithm.py' 
 When run 'MLEM2_Algorithm.py', it first asks to enter the name of input file. 
+
 Second, it asks to indicate what type of concept approximation will be adopted. 
+
 Third, it asks to enter the name of output file. 
 
 Finally, the induced rules will be saved in the output file in the way as follows: 
+
 2, 2, 2
-(Ink-color, blue) & (Body-color, blue) -> (Attitude, plus) 1, 1, 1
+
+(Ink-color, blue) & (Body-color, blue) -> (Attitude, plus) 
+
+1, 1, 1
+
 (Ink-color, red) -> (Attitude, plus)
+
 1, 3, 3
+
 (Body-color, black) -> (Attitude, minus)
+
 1, 3, 3
+
 (Ink-color, black) -> (Attitude, minus)
