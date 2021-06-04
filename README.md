@@ -3,10 +3,6 @@
 # Implementation of MLEM2 Algorithm 
 
 
-Guojun Xiong
-
-KUID: 2946078
-
 
 # Description of the project
 
